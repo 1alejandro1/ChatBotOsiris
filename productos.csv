@@ -1,0 +1,4 @@
+id,nombre,categoria,precio,descripcion,url_imagen,url_producto
+1,Laptop X200,Computadoras,850,"Laptop potente con 16GB RAM y SSD de 512GB","imgs/x200.jpg","http://localhost/CHATBOT_OSIRIS/"
+2,Smartphone Z10,Teléfonos,450,"Pantalla AMOLED, cámara de 64MP","imgs/z10.jpg","http://localhost/CHATBOT_OSIRIS/"
+3,Mouse Pro,Accesorios,25,"Mouse ergonómico con sensor óptico","imgs/mousepro.jpg","http://localhost/CHATBOT_OSIRIS/"
